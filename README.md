@@ -63,7 +63,7 @@ adeweb/
 
 ```bash
 git clone https://github.com/mrdsantoyo/ADEWEB.git
-cd prudentia
+cd adeweb
 python -m venv venv
 source ./venv//Scripts//Activate.ps1 #En Linux: venv/bin/activate 
 pip install -r requirements.txt
