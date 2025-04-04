@@ -82,7 +82,7 @@ python manage.py runserver
 
 ---
 
-## 🧑‍💻 Autor y 📄 Licencia
+## 🧑‍💻📄  Autor y Licencia
 
 Desarrollado por Daniel Santoyo ([@mrdsantoyo](https://github.com/mrdsantoyo)). Daniel Santoyo (@mrdsantoyo)
 
