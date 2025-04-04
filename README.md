@@ -52,9 +52,6 @@ adeweb/
 ├── README.md       
 ├── LICENCE             # Licencia MIT
 └── requirements.txt    # Instalación de dependencias 
-...
-..
-.
 
 ```
 ---
@@ -65,7 +62,7 @@ adeweb/
 git clone https://github.com/mrdsantoyo/ADEWEB.git
 cd adeweb
 python -m venv venv
-source ./venv//Scripts//Activate.ps1 #En Linux: venv/bin/activate 
+./venv//Scripts//Activate.ps1 #En Linux: source venv/bin/activate 
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
@@ -85,16 +82,13 @@ python manage.py runserver
 
 ---
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Autor y 📄 Licencia
 
 Desarrollado por Daniel Santoyo ([@mrdsantoyo](https://github.com/mrdsantoyo)). Daniel Santoyo (@mrdsantoyo)
 
 Contacto: danielsa00@gmail.com | LinkedIn: www.linkedin.com/in/daniel-santoyo00
 
----
-
-## 📄 Licencia
-
-
 **Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.**
+
+---
 
